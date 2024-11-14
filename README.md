@@ -112,3 +112,6 @@ Let’s explore the world of tech together!
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrodd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![snake gif](https://github.com/devrodd/devrodd/blob/output/github-contribution-grid-snake.svg)
+

@@ -113,5 +113,3 @@ Let’s explore the world of tech together!
   />
 </p>
 
-![snake gif](https://github.com/devrodd/devrodd/blob/output/github-contribution-grid-snake.svg)
-

@@ -2,7 +2,7 @@
 
 **`Developer Mobile`**
 
-Hi there! I'm Rodrigo Dantas, 31 years old, with a degree in Systems Analysis and Development (ADS), which I completed in 2022. I'm passionate about technology, especially mobile development. I have experience in front-end development and am always looking to learn and refine my skills in areas like Swift, React Native, and Kotlin.
+Hi there! I'm Rodrigo Dantas, 31 years old, with a degree in Systems Analysis and Development (ADS), which I completed in 2023. I'm passionate about technology, especially mobile development. I have experience in front-end development and am always looking to learn and refine my skills in areas like Swift, React Native, and Kotlin.
 
 Let’s explore the world of tech together!
 
